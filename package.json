@@ -1,0 +1,12 @@
+{
+  "name": "webpack_examples_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "webpack": "^2.7.0"
+  }
+}
